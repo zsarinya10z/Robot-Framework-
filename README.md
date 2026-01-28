@@ -1,4 +1,4 @@
-🤖 Robot Framework Automation Testing Project
+🤖 **Robot Framework Automation Testing Project**
 
 Automation Testing Project using Robot Framework + SeleniumLibrary
 with Excel Report & Screenshot Evidence
