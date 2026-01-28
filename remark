@@ -1,0 +1,5 @@
+▶️ รันเทส
+robot tests/login.robot
+robot -d results tests/
+
+robot -d results tests; python export_excel.py
